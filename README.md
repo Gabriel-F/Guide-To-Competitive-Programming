@@ -1,7 +1,7 @@
 <h1>Guide to Competitive Programming</h1>
 
 - [x] 2. Programming Techniques
-- [ ] 3. Efficiency
+- [X] 3. Efficiency
 - [ ] 4. Sorting and Searching
 - [ ] 5. Data Structures
 - [ ] 6. Dynamic Programming
