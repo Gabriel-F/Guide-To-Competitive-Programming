@@ -2,8 +2,8 @@
 
 - [x] 2. Programming Techniques
 - [X] 3. Efficiency
-- [ ] 4. Sorting and Searching
-- [ ] 5. Data Structures
+- [X] 4. Sorting and Searching
+- [X] 5. Data Structures
 - [ ] 6. Dynamic Programming
 - [ ] 7. Graph Algorithms
 - [ ] 8. Algorithm Design Topics
